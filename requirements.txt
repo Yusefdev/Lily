@@ -1,0 +1,6 @@
+Flask
+flask-cors
+zstandard
+Pillow
+pywin32
+windows-toasts
