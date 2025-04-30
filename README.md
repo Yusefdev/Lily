@@ -41,10 +41,12 @@ Lily is a Flutter + Python project for forwarding phone notifications to your PC
    flutter pub add installed_apps@^1.6.0
    ```
 
-4. Fetch packages:
+3. Fetch packages:
    ```bash
    flutter pub get
    ```
+
+4. copy the AndroidManifest.xml to android\app\src\main\AndroidManifest.xml (or just take the things you need from what i uploaded)
 
 ### PC Server Setup
 
