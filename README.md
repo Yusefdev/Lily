@@ -56,7 +56,7 @@ Lily is a Flutter + Python project for forwarding phone notifications to your PC
    source venv/bin/activate
    ```
 
-2. Install requirements (if you create `requirements.txt`):
+2. Install requirements:
    ```bash
    pip install -r requirements.txt
    ```
